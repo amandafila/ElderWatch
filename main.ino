@@ -33,8 +33,8 @@ float movimentoHistorico[MAX_DATA_POINTS];
 int movimentoIndex = 0;
 
 // === Configurações de Rede e Telegram === //
-#define BOT_TOKEN "8000305463:AAFPx-HARUte4xM5viSllFOEJZjai-NntwQ" 
-#define CHAT_ID "1554000793"                                     
+#define BOT_TOKEN "#" 
+#define CHAT_ID "#"                                     
 const char* ssid = "WiFiTest";
 const char* password = "12345678";
 
